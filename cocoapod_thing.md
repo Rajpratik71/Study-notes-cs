@@ -54,6 +54,15 @@ platform :ios, '7.0'
 
 pod "AFNetworking", "~> 2.0"
 
+-------------------------------------
+
+```
+target 'MyApp' do
+  pod 'AFNetworking', '~> 3.0'
+  pod 'FBSDKCoreKit', '~> 4.9'
+end
+```
+
 当前AFNetworking支持的iOS最高版本是iOS 7.0,要下载的AFNetworking版本是2.0。
 
 关于Podfile文件编辑时，第三方库版本号的各种写法：
