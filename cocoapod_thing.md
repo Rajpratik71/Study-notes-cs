@@ -176,6 +176,8 @@ http://www.th7.cn/Program/Ruby/201606/869773.shtml
 
 
 # 强迫使用，暴力解决
+
+```
 $ mkdir -p $HOME/Software/ruby
 $ export GEM_HOME=$HOME/Software/ruby
 $ gem install cocoapods
@@ -184,5 +186,7 @@ $ gem install cocoapods
 $ export PATH=$PATH:$HOME/Software/ruby/bin
 $ pod --version
 0.37.2
+```
+ 
 
 
