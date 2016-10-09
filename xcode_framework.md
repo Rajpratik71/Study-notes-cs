@@ -44,3 +44,27 @@ open xx.xcworkspace (not xxx.xcodeproj)
 
 framewwork  同样会遇到这个问题
 
+
+### Q5 
+项目使用情况：
+多模块同时进行使用，如何进行一次导入，其它的controller也可以使用
+
+
+### 使用cocoapod 好处－1
+swift 调用oc , 不需要头文件之类的东东
+
+```swift
+import SVProgressHUD
+
+    SVProgressHUD.showInfoWithStatus("hello hud!")
+    
+```
+### 使用cocoapod 好处－2
+多库同时进行管理版本，具体问题c可参考Q3
+
+### 使用cocoapod 好处－3
+
+
+
+
+
