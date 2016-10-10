@@ -20,8 +20,35 @@ Framework Search Paths: /User/xxx/xxframework
 
 ### Q1 将生成的库放进去当前文件夹
 
-### Q2 编译库，包括swift,object c 建议分开打库成framework
+## Q2 编译库，包括swift,object c 建议分开打库成framework
  注意：生成的库的object c头文件写进到库文件里面
+
+framework
+ 
+1-object c 头文件 需要进行拖文件到公共区域 ［ Build Phases- Compile Sources-Headers (Private/Public)］
+
+2- object c 头文件需要 本头文件上填写暴露的头文件
+
+---
+```swift
+#import "TestOCFuntFolder.h"
+#import "TestOCFunt.h"
+```
+3-编译
+
+## 放进swift framework 进行调用情况
+－ 调用先将头文件放进到 带上 object c framework name / 暴露的头文件
+－ 调用使用时候，可以这节调用
+
+## 项目中使用
+－ 项目使用需要导入模块名，然后调用其中的函数
+
+## error bug
+1 no image -can not solve 
+2 not build module 
+3 
+
+
 
 ### Q3 cocoapods
 podfile.lock,podfile dirr err 
