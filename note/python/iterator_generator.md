@@ -12,7 +12,7 @@
 等同于生成器表达式：  
 
     （i*i for i in xrange(start, stop))
-列表推倒式是：  
+列表推导式:
     
     [i*i for i in xrange(start, stop)]
 
