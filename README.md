@@ -85,6 +85,4 @@
 ####sphinx/coreseek
 1. [sphinx笔记](./note/python/sphinx/introduce.md)  
 
-不定时更新 
-
 
