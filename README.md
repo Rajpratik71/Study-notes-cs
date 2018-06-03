@@ -1,7 +1,7 @@
-﻿###学习笔记
+﻿### 学习笔记
 既然不能做到过目不忘，索性把看到的记下来，做笔记的好处就是下次碰到问题时直接查看经过自己总结的笔记有事半功倍的效果，因此也养成了学习一点就记一点的习惯。以前喜欢用Evernote来记录，现在用GitHub。  
 
-####Python
+#### Python
 5. [collections学习笔记](./note/python/collections.md)
 5. [函数式编程------序列处理函数](./note/python/function_programming_of_function_processing_functions.md)
 6. [协程](./note/python/coroutine.md)
@@ -28,7 +28,7 @@
 10. [Django signal](./note/python/signals.md)
 
 
-#####Mako模板
+##### Mako模板
 
 5. [mako简介](./note/python/mako.md)
 
@@ -45,7 +45,7 @@
 5. [范行实践](./note/java/Generic.md)
 6. [类加载与初始化](./note/java/classloading and initialization.md)
 
-####Vim
+#### Vim
 [Vim相关文章](./note/vim/目录.md)，早期写的一些文章可以在我的旧博客：[liuzhijun.iteye.com](http://liuzhijun.iteye.com/category/270228)查看到  
 
 10. [正则表达式](./note/vim/10.md) 
@@ -69,20 +69,20 @@
 28. [Vim28 全局命令](./note/vim/28.md)
 [我的vim配置](./note/vim/vimrc.md)  
 
-####memcached
+#### memcached
 1. [入门安装篇](./note/memcached/introduce_install.md)  
 2. [命令介绍篇](./note/memcached/telnet_command.md)
 
-####redis
+#### redis
 1. [入门篇](./note/redis/introduce.md)
 
-####RQ
+#### RQ
 1. [RQ简介](./note/rq/rq_getting_start.md)
 2. [RQ Queue](./note/rq/rq.md)
 3. [RQ Worker](./note/rq/rq_worker.md)
 
 
-####sphinx/coreseek
+#### sphinx/coreseek
 1. [sphinx笔记](./note/python/sphinx/introduce.md)  
 
 不定时更新 
