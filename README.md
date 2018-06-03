@@ -18,7 +18,7 @@
 20. [理解WSGI](./note/python/wsgi.md)
 21. [Flask之Hello world详解](./note/python/flask.md)
 
-#####Django
+##### Django
 1. [Django测试指南](./note/python/a_guide_to_testing_in_django.md)
 2. [Django模版语言](./note/python/django_template.md)
 3. [使用django-simple-captcha遇到的坑](./note/python/captcha.md)
@@ -32,10 +32,10 @@
 
 5. [mako简介](./note/python/mako.md)
 
-#####SQLAlchemy
+##### SQLAlchemy
 14. [SQLAlchemy学习笔记](./note/python/sqlalchemy.md)
 
-####Java
+#### Java
 此系列文章绝大部分发布在[importnew.com](http://www.importnew.com)网站上  
 
 1. [JDBC批处理Select语句](./note/java/JDBC Performance Tips.md)
