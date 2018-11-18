@@ -1,0 +1,3 @@
+join 
+应该在所有进程全都start之后进行
+join将会使后续的进程无法start
