@@ -12,7 +12,7 @@
 16. [Python实用技巧](./useful_features.md)
 17. [python测试](./testing.md)
 18. [gevent简介](./gevent.md)
-19. [Django应用部署(nginx、gunicorn、virtualenv、supervisor)](.\note\python\deploy_django_with_nginx.md)
+19. [Django应用部署(nginx、gunicorn、virtualenv、supervisor)](./deploy_django_with_nginx.md)
 20. [理解WSGI](./wsgi.md)
 21. [Flask之Hello world详解](./flask.md)
 
