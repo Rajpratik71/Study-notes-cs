@@ -22,7 +22,7 @@ namedtuple是在python2.6中开始出现的,在collections模块下面,它扩展
 语法是这样的:  
 
     collections.namedtuple(typename, filed_names[, verbose])
-地一个参数指定新类型的名字,第二个参数是字符串(用空格或者逗号隔开)它构成了这个类型的域. 如果verbose等于True.那么就会打印出类生成信息.  
+第一个参数指定新类型的名字,第二个参数是字符串(用空格或者逗号隔开)它构成了这个类型的域. 如果verbose等于True.那么就会打印出类生成信息. 
 
     >>> People = namedtuple("People",'age name', True)
     class People(tuple):
